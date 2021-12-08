@@ -11,7 +11,7 @@ PHP SDK модуль для внедрения единого платежног
 Установка с помощью [composer](https://getcomposer.org/download/):
 
 ```bash
-$ composer require qiwi/bill-payments-php-sdk
+$ composer require javadle/qiwi
 ```
 
 ## Документация
