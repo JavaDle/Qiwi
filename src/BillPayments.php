@@ -567,6 +567,7 @@ class BillPayments
         $url     = self::BILLS_URI.$uri;
         $headers = [
             'Accept: application/json',
+			'Content-Type: application/json',
             'Authorization: Bearer '.$this->secretKey,
         ];
         if (true !== empty($body) && self::GET !== $method) {
