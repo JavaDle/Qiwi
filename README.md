@@ -1,8 +1,8 @@
 # Universal payments API PHP SDK
 
-[![Build Status](https://travis-ci.org/QIWI-API/bill-payments-php-sdk.svg?branch=master)](https://travis-ci.org/QIWI-API/bill-payments-php-sdk)
-[![Latest Stable Version](https://poser.pugx.org/qiwi/bill-payments-php-sdk/version)](https://packagist.org/packages/qiwi/bill-payments-php-sdk)
-[![Total Downloads](https://poser.pugx.org/qiwi/bill-payments-php-sdk/downloads)](https://packagist.org/packages/qiwi/bill-payments-php-sdk)
+[![Build Status](https://travis-ci.org/QIWI-API/bill-payments-php-sdk.svg?branch=master)](https://travis-ci.org/JavaDle/Qiwi)
+[![Latest Stable Version](https://poser.pugx.org/JavaDle/Qiwi/version)](https://packagist.org/packages/JavaDle/Qiwi)
+[![Total Downloads](https://poser.pugx.org/JavaDle/Qiwi/downloads)](https://packagist.org/packages/JavaDle/Qiwi)
 
 PHP SDK модуль для внедрения единого платежного протокола эквайринга и QIWI Кошелька.
 
